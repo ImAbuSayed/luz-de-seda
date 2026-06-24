@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/luz-de-seda/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Luz de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-seda/) |
+| **Get License** | [Request Licensing for Luz de seda](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/luz-de-seda/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Bajo la luna llena, tú eres mi luz de seda
+> Bailando en la pista dejas que el tiempo se pierda
+> Tu cuerpo y el mío quemando, el deseo nos enreda
+> Nos perdemos esta noche, haciendo que el mundo ceda
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
